@@ -4,4 +4,6 @@ A curated roadmap and projects for learning Artificial Intelligence, Machine Lea
 Creating a projects related to Artificial Intelligence
 <br>
 Praticing it another time.
+<br>
+Code written by Pankaj Jagwnai 
 
